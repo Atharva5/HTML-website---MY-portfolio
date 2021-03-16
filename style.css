@@ -1,0 +1,29 @@
+H1 {
+    color:white
+
+}
+*{
+background-color: rgb(204, 204, 40);
+}
+.header{
+    background-color:white ;
+    display:flex;
+    justify-content:space-between ;
+
+}
+.allgames{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
+p{
+    color:red;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+}
